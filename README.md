@@ -1,6 +1,4 @@
-# OIBSIP - Data Analytics Internship
-
-This repository has my work for the Data Analytics internship at Oasis Infobyte.
+# OIBSIP
 
 ## Level 1 - Task 1: Exploratory Data Analysis on Retail Sales Data
 
